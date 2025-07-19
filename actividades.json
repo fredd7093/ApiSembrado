@@ -1,0 +1,117 @@
+[
+  {
+    "nombre": "Actividad 1: Clasifica lo que siembras",
+    "preguntas": [
+      {
+        "texto": "Marta se repite: \"Yo no sirvo para nada, nunca cambiaré.\"",
+        "opciones": ["Idea", "Lenguaje", "Sueño", "Pensamiento"],
+        "correcta": "Lenguaje"
+      },
+      {
+        "texto": "Juan cree que un día Dios lo enviará a predicar.",
+        "opciones": ["Lenguaje", "Pensamiento", "Expectativa", "Sueño"],
+        "correcta": "Sueño"
+      },
+      {
+        "texto": "Laura siente que Dios le mostró un nuevo proyecto.",
+        "opciones": ["Idea", "Sueño", "Pensamiento", "Expectativa"],
+        "correcta": "Idea"
+      },
+      {
+        "texto": "Pedro piensa: \"Nada bueno viene para mí.\"",
+        "opciones": ["Sueño", "Pensamiento", "Expectativa", "Lenguaje"],
+        "correcta": "Expectativa"
+      },
+      {
+        "texto": "Ana medita en lo justo, puro y verdadero.",
+        "opciones": ["Idea", "Sueño", "Lenguaje", "Pensamiento"],
+        "correcta": "Pensamiento"
+      }
+    ]
+  },
+  {
+    "nombre": "Actividad 2: Completa el versículo",
+    "preguntas": [
+      {
+        "texto": "“Encomienda a Jehová tus obras...”",
+        "opciones": [
+          "...y tus pensamientos serán afirmados.",
+          "...y verás su gloria.",
+          "...y recibirás bendición.",
+          "...y tendrás paz."
+        ],
+        "correcta": "...y tus pensamientos serán afirmados."
+      },
+      {
+        "texto": "“No os conforméis a este siglo...”",
+        "opciones": [
+          "...sino transformaos por medio de la renovación de vuestro entendimiento.",
+          "...sino busquen la justicia.",
+          "...sino orad sin cesar.",
+          "...sino sean agradecidos."
+        ],
+        "correcta": "...sino transformaos por medio de la renovación de vuestro entendimiento."
+      },
+      {
+        "texto": "“Porque yo sé los planes que tengo para ustedes...”",
+        "opciones": [
+          "Planes de bienestar y no de mal, para darles un futuro y una esperanza.",
+          "Planes de castigo y corrección.",
+          "Planes secretos que no se entienden.",
+          "Planes de éxito financiero."
+        ],
+        "correcta": "Planes de bienestar y no de mal, para darles un futuro y una esperanza."
+      },
+      {
+        "texto": "“Deléitate asimismo en Jehová...”",
+        "opciones": [
+          "...y él te concederá las peticiones de tu corazón.",
+          "...y vivirás para siempre.",
+          "...y serás lleno del Espíritu Santo.",
+          "...y recibirás doble honor."
+        ],
+        "correcta": "...y él te concederá las peticiones de tu corazón."
+      }
+    ]
+  },
+  {
+    "nombre": "Actividad 3: Clasifica el sueño",
+    "preguntas": [
+      {
+        "texto": "Samuel sueña con su jefe gritándole.",
+        "opciones": ["Humano", "Divino", "Maligno"],
+        "correcta": "Humano"
+      },
+      {
+        "texto": "Un joven sueña que debe dejar su pecado.",
+        "opciones": ["Humano", "Divino", "Maligno"],
+        "correcta": "Divino"
+      },
+      {
+        "texto": "Sueños frecuentes con muerte, miedo y confusión.",
+        "opciones": ["Humano", "Divino", "Maligno"],
+        "correcta": "Maligno"
+      }
+    ]
+  },
+  {
+    "nombre": "Actividad 4: Reflexión personal (elige)",
+    "preguntas": [
+      {
+        "texto": "¿Tus ideas vienen de Dios o del miedo?",
+        "opciones": ["De Dios", "Del miedo"],
+        "correcta": "De Dios"
+      },
+      {
+        "texto": "¿Has orado por tu sueño de vida?",
+        "opciones": ["Sí", "No"],
+        "correcta": "Sí"
+      },
+      {
+        "texto": "¿Cómo te hablas a ti mismo?",
+        "opciones": ["Con vida", "Con condenación"],
+        "correcta": "Con vida"
+      }
+    ]
+  }
+]
