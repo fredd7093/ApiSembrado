@@ -1,0 +1,132 @@
+[
+  {
+    "nombre": "Tipos y Estados de la Mente Bíblica",
+    "preguntas": [
+      {
+        "texto": "¿Qué tipo de mente describe a alguien que es incrédulo y tiene dificultades para aceptar la verdad?",
+        "opciones": ["Mente natural", "Mente flexible", "Mente creativa", "Mente disciplinada"],
+        "correcta": "Mente natural",
+        "casoBiblico": "La mente natural se refleja en la incredulidad que tuvo Faraón ante las señales de Dios (Éxodo 7:13)."
+      },
+      {
+        "texto": "¿Qué tipo de mente tiene la persona que puede adaptarse fácilmente cuando las cosas no salen como espera?",
+        "opciones": ["Mente rígida", "Mente flexible", "Mente de soldado", "Mente líquida"],
+        "correcta": "Mente flexible",
+        "casoBiblico": "Pablo habla de la importancia de adaptarse a diferentes circunstancias (Filipenses 4:12)."
+      },
+      {
+        "texto": "Verdadero o Falso: La mente rígida es aquella que siempre está abierta a nuevas ideas y cambios rápidos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "Proverbios 3:7 aconseja no ser sabio en nuestra propia opinión, lo que indica una mente rígida."
+      },
+      {
+        "texto": "¿Cuál tipo de mente es buena para juntar ideas diferentes y sacar conclusiones claras?",
+        "opciones": ["Mente creativa", "Mente sintética", "Mente práctica", "Mente disciplinada"],
+        "correcta": "Mente sintética",
+        "casoBiblico": "Proverbios 18:15 muestra que una mente que recibe y junta conocimiento es valiosa."
+      },
+      {
+        "texto": "¿Qué tipo de mente se esfuerza por aprender y mejorar con práctica constante?",
+        "opciones": ["Mente disciplinada", "Mente líquida", "Mente ética", "Mente rígida"],
+        "correcta": "Mente disciplinada",
+        "casoBiblico": "1 Corintios 9:25 habla del esfuerzo y disciplina para lograr la meta."
+      },
+      {
+        "texto": "Verdadero o Falso: La mente carnal es aquella que se enfoca en las cosas de Dios y en el Espíritu Santo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "Romanos 8:5 describe la mente carnal como enfocada en las cosas terrenales."
+      },
+      {
+        "texto": "¿Qué tipo de mente se caracteriza por escuchar y respetar las opiniones de los demás, aunque no coincida con las propias?",
+        "opciones": ["Mente respetuosa", "Mente creativa", "Mente de explorador", "Mente práctica"],
+        "correcta": "Mente respetuosa",
+        "casoBiblico": "1 Pedro 3:8 nos llama a ser humildes y escuchar a los demás."
+      },
+      {
+        "texto": "¿Cuál de estos NO es un estado de la mente según la Biblia?",
+        "opciones": [
+          "Mente espirituosa",
+          "Mente corrompida",
+          "Mente vanidosa",
+          "Mente reprobada"
+        ],
+        "correcta": "Mente espirituosa",
+        "casoBiblico": "Los estados mencionados son mente carnal, corrompida, vanas, cauterizada, reprobada y espiritual."
+      },
+      {
+        "texto": "Verdadero o Falso: Dios tiene buena memoria y ‘se acuerda’ de su pueblo incluso después del Diluvio.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero",
+        "casoBiblico": "Génesis 8:1 dice que Dios se acordó de Noé y de todos los animales."
+      },
+      {
+        "texto": "¿Qué tipo de mente está abierta a nuevas ideas y cambios rápidos, incluso si esto significa cambiar de opinión constantemente?",
+        "opciones": ["Mente líquida", "Mente rígida", "Mente de soldado", "Mente disciplinada"],
+        "correcta": "Mente líquida",
+        "casoBiblico": "1 Tesalonicenses 5:21 nos llama a examinarlo todo y retener lo bueno."
+      },
+      {
+        "texto": "¿Qué tipo de mente defiende sus ideas con fuerza, como si estuviera en batalla?",
+        "opciones": ["Mente de soldado", "Mente disciplinada", "Mente práctica", "Mente ética"],
+        "correcta": "Mente de soldado",
+        "casoBiblico": "1 Timoteo 6:12 exhorta a pelear la buena batalla de la fe."
+      },
+      {
+        "texto": "¿Cuál es la mente que piensa antes de actuar o decidir algo importante?",
+        "opciones": ["Mente práctica", "Mente creativa", "Mente reflexiva", "Mente respetuosa"],
+        "correcta": "Mente reflexiva",
+        "casoBiblico": "Proverbios 22:3 enseña la importancia de prever el peligro."
+      },
+      {
+        "texto": "¿Qué tipo de mente busca soluciones simples y efectivas sin complicarse?",
+        "opciones": ["Mente práctica", "Mente rígida", "Mente líquida", "Mente sintética"],
+        "correcta": "Mente práctica",
+        "casoBiblico": "1 Juan 3:18 nos llama a la acción sencilla y sincera."
+      },
+      {
+        "texto": "Verdadero o Falso: La mente ética considera si nuestras acciones son justas y correctas para los demás.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero",
+        "casoBiblico": "Miqueas 6:8 llama a hacer justicia y amar la misericordia."
+      },
+      {
+        "texto": "¿Cuál es la mente que tiene curiosidad para entender la realidad, incluso si eso cambia sus creencias?",
+        "opciones": ["Mente de explorador", "Mente natural", "Mente rígida", "Mente carnal"],
+        "correcta": "Mente de explorador",
+        "casoBiblico": "Jeremías 33:3 invita a llamar y recibir respuestas nuevas."
+      },
+      {
+        "texto": "¿Qué tipo de mente se caracteriza por tener pensamientos inútiles o vanos según Efesios 4:17?",
+        "opciones": ["Mente vana", "Mente corrompida", "Mente cauterizada", "Mente espiritual"],
+        "correcta": "Mente vana",
+        "casoBiblico": "Efesios 4:17 advierte sobre andar en la vanidad de la mente."
+      },
+      {
+        "texto": "¿Qué tipo de mente se describe como ‘cauterizada’, habiendo perdido toda sensibilidad moral?",
+        "opciones": ["Mente cauterizada", "Mente natural", "Mente ética", "Mente reflexiva"],
+        "correcta": "Mente cauterizada",
+        "casoBiblico": "Efesios 4:19 habla de quienes han perdido toda vergüenza y son inmorales."
+      },
+      {
+        "texto": "Verdadero o Falso: Según 1 Corintios 2:16, la mente espiritual es la que tiene la mente de Cristo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero",
+        "casoBiblico": "1 Corintios 2:16 dice que tenemos la mente de Cristo."
+      },
+      {
+        "texto": "¿Qué tipo de mente es importante para seguir aprendiendo y mejorando como cristianos?",
+        "opciones": ["Mente disciplinada", "Mente rígida", "Mente carnal", "Mente corrompida"],
+        "correcta": "Mente disciplinada",
+        "casoBiblico": "1 Corintios 9:25 nos anima a correr con disciplina."
+      },
+      {
+        "texto": "Verdadero o Falso: Somos lo que pensamos, porque lo que pensamos moldea nuestra conducta y sentimientos.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero",
+        "casoBiblico": "Proverbios 23:7 enseña que como piensa el corazón, así es el hombre."
+      }
+    ]
+  }
+]

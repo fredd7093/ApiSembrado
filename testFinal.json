@@ -1,0 +1,112 @@
+[
+  {
+    "nombre": "Casos de Vida y Repaso Bíblico",
+    "preguntas": [
+      {
+        "texto": "1. Juan siempre se muestra impaciente y dominante cuando lidera el grupo de estudio. ¿Qué temperamento refleja más probablemente?",
+        "opciones": ["Sanguíneo", "Flemático", "Colérico", "Melancólico"],
+        "correcta": "Colérico"
+      },
+      {
+        "texto": "2. Marta se siente abrumada por las críticas y tiende a repasar cada detalle una y otra vez. ¿Qué temperamento describe mejor su carácter?",
+        "opciones": ["Melancólico", "Sanguíneo", "Colérico", "Flemático"],
+        "correcta": "Melancólico"
+      },
+      {
+        "texto": "3. Cuando Pedro organiza eventos en la iglesia, es extrovertido y animado; a veces se distrae con facilidad. ¿Qué temperamento es?",
+        "opciones": ["Flemático", "Sanguíneo", "Melancólico", "Colérico"],
+        "correcta": "Sanguíneo"
+      },
+      {
+        "texto": "4. Luisa rara vez se enfada, es reservada y apacible, y evita discusiones. ¿Qué temperamento posee?",
+        "opciones": ["Sanguíneo", "Melancólico", "Colérico", "Flemático"],
+        "correcta": "Flemático"
+      },
+      {
+        "texto": "5. En su trabajo, María analiza cada problema en partes pequeñas antes de proponer solución. ¿Qué tipo de pensamiento aplica?",
+        "opciones": ["Deductivo", "Analítico", "Lateral", "Mágico"],
+        "correcta": "Analítico"
+      },
+      {
+        "texto": "6. Alberto propone soluciones originales para los conflictos del grupo, aunque sean poco convencionales. ¿Qué pensamiento muestra?",
+        "opciones": ["Suave", "Divergente", "Convergente", "Duro"],
+        "correcta": "Divergente"
+      },
+      {
+        "texto": "7. Clara examina varias ideas y elige la mejor para el ministerio; descarta las demás. ¿Qué tipo de pensamiento usa?",
+        "opciones": ["Lateral", "Convergente", "Inductivo", "Suave"],
+        "correcta": "Convergente"
+      },
+      {
+        "texto": "8. José cree que si ora con suficiente fervor, obtendrá resultados sin mayor preparación. ¿Qué pensamiento es este?",
+        "opciones": ["Mágico", "Práctico", "Analítico", "Lateral"],
+        "correcta": "Mágico"
+      },
+      {
+        "texto": "9. Lucía escucha atentamente antes de responder y busca no herir con sus palabras. ¿Qué pensamiento describe?",
+        "opciones": ["Duro", "Suave", "Lateral", "Inductivo"],
+        "correcta": "Suave"
+      },
+      {
+        "texto": "10. Ricardo parte de la promesa de Dios (“no temas” es general) y la aplica a su situación concreta. ¿Qué pensamiento practica?",
+        "opciones": ["Deductivo", "Divergente", "Mágico", "Convergente"],
+        "correcta": "Deductivo"
+      },
+      {
+        "texto": "11. ¿Verdadero o falso? Sara, que nunca cambia de opinión aunque la Biblia ofrezca argumentos sólidos, tiene mente rígida.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "12. ¿Verdadero o falso? Marcos examina y retiene lo bueno de cada consejo recibido, mostrando mente líquida.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "13. Ante un reto en el ministerio, Ana oró, luego investigó y finalmente actuó con disciplina. ¿Qué mente refleja?",
+        "opciones": ["Disciplinada", "Carnal", "Reprobada", "Vana"],
+        "correcta": "Disciplinada"
+      },
+      {
+        "texto": "14. Luis, tras sufrir un fracaso, reflexiona en silencio antes de decidir su próximo paso. ¿Qué tipo de mente tiene?",
+        "opciones": ["Reflexiva", "Práctica", "De soldado", "Respetuosa"],
+        "correcta": "Reflexiva"
+      },
+      {
+        "texto": "15. Para resolver un problema de logística en la iglesia, el equipo junta todas las ideas y las combina. ¿Qué mente usa?",
+        "opciones": ["Sintética", "Analítica", "Dura", "Suave"],
+        "correcta": "Sintética"
+      },
+      {
+        "texto": "16. Marcos guarda rencor y no perdona, a pesar de la enseñanza bíblica. ¿Qué estado de mente demuestra?",
+        "opciones": ["Carnal", "Espiritual", "Reprobada", "Cauterizada"],
+        "correcta": "Cauterizada"
+      },
+      {
+        "texto": "17. Luisa cambia rápidamente de plan cuando el contexto lo exige. ¿Qué tipo de mente tiene?",
+        "opciones": ["Rígida", "Flexible", "Reprobada", "Cauterizada"],
+        "correcta": "Flexible"
+      },
+      {
+        "texto": "18. Andrés, tras estudiar las Escrituras, examina la propuesta con cuidado y decide retener lo bueno. ¿Qué pensamiento aplica?",
+        "opciones": ["Divergente", "Convergente", "Mágico", "Lateral"],
+        "correcta": "Convergente"
+      },
+      {
+        "texto": "19. ¿Verdadero o falso? La mente espiritual es la que tiene la mente de Cristo según 1 Corintios 2:16.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "20. Caso integral: Después de un conflicto de liderazgo, el equipo ora, escucha, reflexiona, reúne ideas y elige la mejor. Enumera en orden los tipos de pensamiento usados (analítico, suave, divergente, convergente).",
+        "opciones": [
+          "Analítico → Suave → Divergente → Convergente",
+          "Convergente → Analítico → Suave → Divergente",
+          "Suave → Divergente → Convergente → Analítico",
+          "Divergente → Suave → Analítico → Convergente"
+        ],
+        "correcta": "Analítico → Suave → Divergente → Convergente"
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "nombre": "Tipos de Pensamiento Bíblico",
+    "preguntas": [
+      {
+        "texto": "¿Qué tipo de pensamiento comienza con una idea general para llegar a una conclusión específica?",
+        "opciones": ["Pensamiento inductivo", "Pensamiento lateral", "Pensamiento deductivo", "Pensamiento divergente"],
+        "correcta": "Pensamiento deductivo",
+        "casoBiblico": "Isaías 1:18 — 'Venid luego, y razonemos, dice Jehová.' Muestra cómo Dios invita a pensar lógicamente desde principios claros."
+      },
+      {
+        "texto": "¿Qué tipo de pensamiento consiste en observar casos particulares para llegar a una regla general?",
+        "opciones": ["Pensamiento deductivo", "Pensamiento convergente", "Pensamiento inductivo", "Pensamiento duro"],
+        "correcta": "Pensamiento inductivo",
+        "casoBiblico": "Salmo 19:1 — 'Los cielos cuentan la gloria de Dios', observando la creación se deduce la grandeza del Creador."
+      },
+      {
+        "texto": "Verdadero o Falso: El pensamiento analítico busca soluciones creativas e inesperadas a problemas comunes.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "Proverbios 27:12 muestra cómo el pensamiento analítico divide el problema para evitar el daño."
+      },
+      {
+        "texto": "¿Qué pensamiento se caracteriza por proponer soluciones nuevas o no convencionales?",
+        "opciones": ["Pensamiento suave", "Pensamiento lateral", "Pensamiento convergente", "Pensamiento inductivo"],
+        "correcta": "Pensamiento lateral",
+        "casoBiblico": "Isaías 43:19 — Dios hace 'cosa nueva', alentando a pensar fuera de lo común."
+      },
+      {
+        "texto": "¿Qué tipo de pensamiento valora la empatía, la intuición y el contexto social al tomar decisiones?",
+        "opciones": ["Pensamiento duro", "Pensamiento lateral", "Pensamiento suave", "Pensamiento convergente"],
+        "correcta": "Pensamiento suave",
+        "casoBiblico": "Proverbios 15:1 — Una respuesta suave tiene más efecto que una dura."
+      },
+      {
+        "texto": "Verdadero o Falso: El pensamiento duro siempre toma en cuenta los sentimientos de los demás al decidir algo.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "Proverbios 18:13 — Advierte contra hablar antes de oír, lo que requiere lógica y datos."
+      },
+      {
+        "texto": "¿Qué pensamiento genera muchas ideas para resolver un solo problema?",
+        "opciones": ["Pensamiento convergente", "Pensamiento duro", "Pensamiento divergente", "Pensamiento suave"],
+        "correcta": "Pensamiento divergente",
+        "casoBiblico": "Efesios 3:10 — 'Multiforme sabiduría de Dios', refleja un pensamiento divergente que genera muchas soluciones."
+      },
+      {
+        "texto": "¿Qué pensamiento implica analizar varias opciones y escoger la mejor?",
+        "opciones": ["Pensamiento divergente", "Pensamiento inductivo", "Pensamiento convergente", "Pensamiento lateral"],
+        "correcta": "Pensamiento convergente",
+        "casoBiblico": "1 Tesalonicenses 5:21 — 'Examinadlo todo; retened lo bueno.' Es converger hacia lo mejor."
+      },
+      {
+        "texto": "¿Qué tipo de pensamiento cree que algo pasará solo por desearlo mucho, sin razones lógicas?",
+        "opciones": ["Pensamiento inductivo", "Pensamiento creativo", "Pensamiento mágico", "Pensamiento analítico"],
+        "correcta": "Pensamiento mágico",
+        "casoBiblico": "Proverbios 14:15 — 'El simple todo lo cree', advirtiendo sobre la credulidad sin razonamiento."
+      },
+      {
+        "texto": "Verdadero o Falso: El pensamiento inductivo parte de principios generales para llegar a conclusiones particulares.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "El pensamiento inductivo observa muchos casos para sacar una conclusión, no parte de una idea general."
+      },
+      {
+        "texto": "¿Qué pensamiento usaría un juez sabio al analizar detalles y consecuencias antes de emitir juicio?",
+        "opciones": ["Pensamiento mágico", "Pensamiento analítico", "Pensamiento convergente", "Pensamiento suave"],
+        "correcta": "Pensamiento analítico",
+        "casoBiblico": "Proverbios 27:12 — El avisado ve el mal; analiza antes de actuar."
+      },
+      {
+        "texto": "Verdadero o Falso: El pensamiento lateral es útil para resolver conflictos familiares de manera creativa.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero",
+        "casoBiblico": "Isaías 43:19 — 'Cosa nueva', puede aplicarse a relaciones personales también."
+      },
+      {
+        "texto": "¿Qué pensamiento ayuda a filtrar lo bueno entre varias opciones?",
+        "opciones": ["Pensamiento convergente", "Pensamiento divergente", "Pensamiento mágico", "Pensamiento inductivo"],
+        "correcta": "Pensamiento convergente",
+        "casoBiblico": "1 Tesalonicenses 5:21 — Escoger lo bueno entre lo probado."
+      },
+      {
+        "texto": "Verdadero o Falso: El pensamiento suave nunca es lógico ni razonable, solo emocional.",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Falso",
+        "casoBiblico": "Proverbios 15:1 — A veces lo emocional tiene más sabiduría que lo lógico."
+      },
+      {
+        "texto": "¿Cuál pensamiento sería riesgoso para un creyente que busca obedecer la voluntad de Dios basándose solo en sentimientos o deseos?",
+        "opciones": ["Pensamiento inductivo", "Pensamiento mágico", "Pensamiento duro", "Pensamiento reflexivo"],
+        "correcta": "Pensamiento mágico",
+        "casoBiblico": "Proverbios 14:15 — Creer sin analizar puede llevar al error."
+      }
+    ]
+  }
+]

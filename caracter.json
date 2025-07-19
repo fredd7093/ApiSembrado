@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Discipulado Mi Carácter",
+    "preguntas": [
+      {
+        "texto": "¿Cuál es el mandamiento más grande según Mateo 22:37?",
+        "opciones": [
+          "Amar al prójimo como a uno mismo",
+          "Amar a Dios con todo el corazón, alma y mente",
+          "Honrar a tus padres",
+          "No robar"
+        ],
+        "correcta": "Amar a Dios con todo el corazón, alma y mente"
+      },
+      {
+        "texto": "¿Qué nos enseña 1 Corintios 13 sobre el amor?",
+        "opciones": [
+          "Que el amor es paciente y bondadoso",
+          "Que el amor busca su propio beneficio",
+          "Que el amor no tiene importancia",
+          "Que el amor es solo un sentimiento"
+        ],
+        "correcta": "Que el amor es paciente y bondadoso"
+      },
+      {
+        "texto": "Según Mateo 5:44-45 debemos amar también a nuestros enemigos. ¿Verdadero o falso?",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "¿Qué significa santidad según Levítico 20:26?",
+        "opciones": [
+          "Ser separado y dedicado a Dios",
+          "Ser perfecto en todas las cosas",
+          "No pecar nunca",
+          "Hacer obras buenas"
+        ],
+        "correcta": "Ser separado y dedicado a Dios"
+      },
+      {
+        "texto": "En Lucas 10:42, ¿qué hizo María que fue alabado por Jesús?",
+        "opciones": [
+          "Preparar la comida",
+          "Escuchar la enseñanza de Jesús",
+          "Ayudar a Marta con las tareas",
+          "Rezar"
+        ],
+        "correcta": "Escuchar la enseñanza de Jesús"
+      },
+      {
+        "texto": "Caso práctico: Si alguien te lastima, ¿qué actitud debes tener según Mateo 5:44-45?",
+        "opciones": [
+          "Vengarte",
+          "Ignorar a la persona",
+          "Amar y orar por esa persona",
+          "Hablar mal de ella"
+        ],
+        "correcta": "Amar y orar por esa persona"
+      },
+      {
+        "texto": "Según Salmo 103:1-5, ¿qué debemos hacer con todo nuestro ser?",
+        "opciones": [
+          "Alabar a Dios",
+          "Juzgar a los demás",
+          "Guardar rencor",
+          "Acumular riquezas"
+        ],
+        "correcta": "Alabar a Dios"
+      },
+      {
+        "texto": "¿Cuál es la actitud correcta hacia los padres según Efesios 6:1-2?",
+        "opciones": [
+          "Oírlos sólo cuando tienen razón",
+          "Obedecerlos y honrarlos",
+          "Ignorarlos",
+          "Discutir siempre"
+        ],
+        "correcta": "Obedecerlos y honrarlos"
+      },
+      {
+        "texto": "Según Hebreos 13:17 debemos obedecer a los líderes espirituales porque ellos velan por nuestra alma. ¿Verdadero o falso?",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "¿Qué es la pureza según 1 Corintios 6:9-11?",
+        "opciones": [
+          "No cometer actos inmorales",
+          "Ser siempre felices",
+          "No hablar con personas malas",
+          "No trabajar en sábado"
+        ],
+        "correcta": "No cometer actos inmorales"
+      },
+      {
+        "texto": "Caso práctico: Si te das cuenta que cometiste un error grave, ¿qué harías según Lucas 8:17?",
+        "opciones": [
+          "Ocultarlo",
+          "Admitirlo y cambiar",
+          "Negarlo",
+          "Culpar a otros"
+        ],
+        "correcta": "Admitirlo y cambiar"
+      },
+      {
+        "texto": "Según Juan 15:5, ¿qué pasa si no permanecemos en Jesús?",
+        "opciones": [
+          "Damos mucho fruto",
+          "Somos como ramas secas y no podemos dar fruto",
+          "No pasa nada",
+          "Somos bendecidos de todas formas"
+        ],
+        "correcta": "Somos como ramas secas y no podemos dar fruto"
+      },
+      {
+        "texto": "¿Cuál es el fruto del Espíritu según Gálatas 5:22-23?",
+        "opciones": [
+          "Ira y envidia",
+          "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza",
+          "Orgullo y soberbia",
+          "Dinero y poder"
+        ],
+        "correcta": "Amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza"
+      },
+      {
+        "texto": "Según Génesis 4:4-5, Dios acepta la ofrenda hecha con corazón sincero. ¿Verdadero o falso?",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "Según Hebreos 2:1, ¿qué debemos hacer para no desviarnos?",
+        "opciones": [
+          "Escuchar con atención y obedecer",
+          "Seguir nuestros deseos",
+          "Hacer lo que otros dicen",
+          "Ignorar las enseñanzas"
+        ],
+        "correcta": "Escuchar con atención y obedecer"
+      },
+      {
+        "texto": "¿Qué nos enseña 2 Timoteo 2:15 sobre la diligencia?",
+        "opciones": [
+          "Estudiar para aprobar exámenes",
+          "Presentarnos a Dios aprobados, como obreros que no tienen de qué avergonzarse",
+          "Trabajar duro para ser ricos",
+          "No preocuparnos por aprender"
+        ],
+        "correcta": "Presentarnos a Dios aprobados, como obreros que no tienen de qué avergonzarse"
+      },
+      {
+        "texto": "Según Salmo 90:12, debemos pedir a Dios que nos enseñe a contar bien nuestros días. ¿Verdadero o falso?",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      },
+      {
+        "texto": "Caso práctico: Si alguien te invita a hacer algo que no agrada a Dios, ¿qué debes hacer según 1 Corintios 10:5-10?",
+        "opciones": [
+          "Aceptar para no ser diferente",
+          "Negarte y buscar agradar a Dios",
+          "Ignorar la invitación pero seguir con tus actos",
+          "Hacerlo y luego arrepentirte"
+        ],
+        "correcta": "Negarte y buscar agradar a Dios"
+      },
+      {
+        "texto": "Según Isaías 5:20, ¿qué actitud debemos evitar?",
+        "opciones": [
+          "Llamar bueno a lo malo y malo a lo bueno",
+          "Amar a Dios",
+          "Orar todos los días",
+          "Ayudar a los necesitados"
+        ],
+        "correcta": "Llamar bueno a lo malo y malo a lo bueno"
+      },
+      {
+        "texto": "Juan 14:16 nos promete que el Espíritu Santo estará con nosotros para guiarnos en toda verdad. ¿Verdadero o falso?",
+        "opciones": ["Verdadero", "Falso"],
+        "correcta": "Verdadero"
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "nombre": "Temperamento y Personalidad Bíblica",
+    "preguntas": [
+      {
+        "texto": "¿Qué temperamento describe mejor a Pedro cuando habló con valentía y a veces era impulsivo?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Colérico",
+        "casoBiblico": "Pedro mostró un temperamento colérico cuando cortó la oreja del siervo del sumo sacerdote (Juan 18:10)."
+      },
+      {
+        "texto": "¿Cuál temperamento caracteriza a Rut por su lealtad y dedicación a su familia?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Flemático",
+        "casoBiblico": "Rut mostró un temperamento flemático al ser paciente, fiel y confiable al cuidar de Noemí (Rut 1:16-17)."
+      },
+      {
+        "texto": "¿Qué temperamento es ideal para personas que son extrovertidas, comunicativas y carismáticas?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Sanguíneo",
+        "casoBiblico": "El temperamento sanguíneo se refleja en la alegría y sociabilidad de David cuando danzaba delante del arca (2 Samuel 6:14)."
+      },
+      {
+        "texto": "¿Qué temperamento se relaciona con personas analíticas, perfeccionistas y sensibles?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Melancólico",
+        "casoBiblico": "Ezequiel mostró un temperamento melancólico al reflexionar profundamente sobre la situación de Israel y lamentar sus pecados (Ezequiel 9:4)."
+      },
+      {
+        "texto": "¿Cuál de estos no es una fortaleza del temperamento sanguíneo?",
+        "opciones": [
+          "Carismático",
+          "Comunicativo",
+          "Espontáneo",
+          "Indeciso"
+        ],
+        "correcta": "Indeciso",
+        "casoBiblico": "El temperamento sanguíneo se caracteriza por ser espontáneo y carismático, no indeciso."
+      },
+      {
+        "texto": "¿Cuál es una debilidad común del temperamento colérico?",
+        "opciones": [
+          "Impaciente",
+          "Reservado",
+          "Pasivo",
+          "Distraído"
+        ],
+        "correcta": "Impaciente",
+        "casoBiblico": "Moisés mostró impaciencia cuando golpeó la roca en lugar de hablarle (Números 20:10-12)."
+      },
+      {
+        "texto": "¿Qué temperamento suele evitar conflictos y es considerado paciente?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Flemático",
+        "casoBiblico": "José mostró paciencia y diplomacia al enfrentar la adversidad en Egipto (Génesis 39:2-4)."
+      },
+      {
+        "texto": "¿Cuál es la base heredada de la personalidad según la enseñanza del temperamento?",
+        "opciones": [
+          "Carácter",
+          "Temperamento",
+          "Experiencias",
+          "Factores externos"
+        ],
+        "correcta": "Temperamento",
+        "casoBiblico": "Jesús, aunque con carácter fuerte, también mostró rasgos de temperamento, como la paciencia y la firmeza (Mateo 11:29)."
+      },
+      {
+        "texto": "¿Qué factor influye en la formación del carácter además del temperamento?",
+        "opciones": [
+          "Solo la genética",
+          "El entorno y las experiencias",
+          "Nada más",
+          "Solo la cultura"
+        ],
+        "correcta": "El entorno y las experiencias",
+        "casoBiblico": "El carácter de José fue moldeado por sus experiencias difíciles y su fe (Génesis 50:20)."
+      },
+      {
+        "texto": "¿Qué temperamento podría corresponder a Pablo, quien fue un líder decidido y enérgico en la iglesia primitiva?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Colérico",
+        "casoBiblico": "Pablo mostró temperamento colérico al ser un líder firme y apasionado (Hechos 9:20)."
+      },
+      {
+        "texto": "¿Qué temperamento se relaciona con la sensibilidad, la profundidad y la autocrítica?",
+        "opciones": [
+          "Sanguíneo",
+          "Flemático",
+          "Colérico",
+          "Melancólico"
+        ],
+        "correcta": "Melancólico",
+        "casoBiblico": "El rey David mostró rasgos melancólicos cuando expresaba tristeza y arrepentimiento en los salmos (Salmo 51)."
+      },
+      {
+        "texto": "¿Cuál es una fortaleza típica del temperamento flemático?",
+        "opciones": [
+          "Diplomacia",
+          "Impulsividad",
+          "Ira",
+          "Superficialidad"
+        ],
+        "correcta": "Diplomacia",
+        "casoBiblico": "Moisés actuó como mediador pacífico entre Dios y el pueblo, mostrando diplomacia (Éxodo 32:11-14)."
+      },
+      {
+        "texto": "Según el texto, ¿qué papel juegan las emociones en la personalidad?",
+        "opciones": [
+          "No tienen influencia",
+          "Son respuestas que afectan cómo actuamos y nos relacionamos",
+          "Solo afectan a niños",
+          "Solo afectan el intelecto"
+        ],
+        "correcta": "Son respuestas que afectan cómo actuamos y nos relacionamos",
+        "casoBiblico": "Jesús mostró emociones humanas como compasión y tristeza (Juan 11:35)."
+      },
+      {
+        "texto": "¿Cuál de estos no es un factor que influye en la personalidad?",
+        "opciones": [
+          "Herencia genética",
+          "Factores externos",
+          "La ropa que usamos",
+          "Experiencias de vida"
+        ],
+        "correcta": "La ropa que usamos",
+        "casoBiblico": "La personalidad de José fue influenciada por su herencia y sus experiencias, no por la ropa que vestía (Génesis 37:3-4)."
+      },
+      {
+        "texto": "¿Qué actitud bíblica refleja el ‘yo verdadero’ formado por la personalidad y el carácter?",
+        "opciones": [
+          "Ser fiel y coherente en nuestras acciones",
+          "Cambiar según las modas",
+          "Ignorar nuestras emociones",
+          "Vivir solo para agradar a otros"
+        ],
+        "correcta": "Ser fiel y coherente en nuestras acciones",
+        "casoBiblico": "José mantuvo su integridad y carácter firme en Egipto a pesar de las pruebas (Génesis 39:7-12)."
+      }
+    ]
+  }
+]

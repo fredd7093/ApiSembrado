@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "Discipulado Mi Identidad",
+    "preguntas": [
+      {
+        "texto": "¿Cuál es el regalo que Dios da, según Romanos 6:23?",
+        "opciones": ["Muerte eterna", "Vida eterna", "Fortuna y salud", "Paz en la tierra"],
+        "correcta": "Vida eterna"
+      },
+      {
+        "texto": "¿Qué significa “Cristo vive en mí” según Gálatas 2:20?",
+        "opciones": [
+          "Que solo Jesús vive en la iglesia",
+          "Que nuestra vida está unida a Cristo y Él vive en nosotros",
+          "Que no necesitamos cambiar nuestras acciones",
+          "Que somos independientes de Dios"
+        ],
+        "correcta": "Que nuestra vida está unida a Cristo y Él vive en nosotros"
+      },
+      {
+        "texto": "Según Juan 1:12, ¿quién recibe el derecho de ser hijo de Dios?",
+        "opciones": [
+          "Todos los que creen en su nombre",
+          "Solo los sacerdotes",
+          "Solo los adultos",
+          "Solo los que practican obras"
+        ],
+        "correcta": "Todos los que creen en su nombre"
+      },
+      {
+        "texto": "¿Qué pasa si confesamos nuestros pecados, según 1 Juan 1:9?",
+        "opciones": [
+          "Dios nos ignora",
+          "Dios nos perdona y limpia de toda maldad",
+          "Dios nos castiga",
+          "No pasa nada"
+        ],
+        "correcta": "Dios nos perdona y limpia de toda maldad"
+      },
+      {
+        "texto": "¿Qué nos da Dios según 1 Juan 5:11-12?",
+        "opciones": ["Una casa grande", "Vida eterna", "Muchas riquezas", "Poder político"],
+        "correcta": "Vida eterna"
+      },
+      {
+        "texto": "¿Qué significa que somos templo de Dios según 1 Corintios 6:19?",
+        "opciones": [
+          "Que debemos cuidar nuestro cuerpo porque es donde habita el Espíritu Santo",
+          "Que no debemos hacer ejercicio",
+          "Que no debemos comer",
+          "Que podemos hacer lo que queramos con nuestro cuerpo"
+        ],
+        "correcta": "Que debemos cuidar nuestro cuerpo porque es donde habita el Espíritu Santo"
+      },
+      {
+        "texto": "¿Qué nos dice Juan 16:24 sobre pedir a Dios?",
+        "opciones": [
+          "Que no debemos pedir nada",
+          "Que pidamos con fe y recibiremos lo que pidamos",
+          "Que Dios no escucha nuestras oraciones",
+          "Que solo los sacerdotes pueden pedir por nosotros"
+        ],
+        "correcta": "Que pidamos con fe y recibiremos lo que pidamos"
+      },
+      {
+        "texto": "¿Qué significa estar sellado con el Espíritu Santo según Efesios 1:13?",
+        "opciones": [
+          "Que hemos recibido la garantía de nuestra salvación",
+          "Que no necesitamos orar",
+          "Que ya no tenemos pecado",
+          "Que somos perfectos"
+        ],
+        "correcta": "Que hemos recibido la garantía de nuestra salvación"
+      },
+      {
+        "texto": "Según Efesios 2:19, ¿qué significa ser miembro de la familia de Dios?",
+        "opciones": [
+          "Ser extranjero y no pertenecer a nada",
+          "Ser ciudadano del cielo y parte de la familia de Dios",
+          "Ser solo un visitante de la iglesia",
+          "No tener responsabilidades"
+        ],
+        "correcta": "Ser ciudadano del cielo y parte de la familia de Dios"
+      }
+    ]
+  }
+]
